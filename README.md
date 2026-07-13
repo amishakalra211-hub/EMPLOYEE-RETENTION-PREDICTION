@@ -9,10 +9,15 @@ Aspiring Data Analyst with skills in SQL, Excel, Power BI, and Python. Passionat
 - Excel
 - Python
 - Data Visualization
+### Repository Structure
 
+- Data/ → Dataset
+- Dashboard/ → Power BI Dashboard Files
+- Presentation/ → Project Presentation
 ### Employee Retention Prediction
 - Built machine learning models to predict employee attrition.
 - Models: Logistic Regression, Decision Tree, Random Forest, AdaBoost.
+- 
 ### Model Performance
 
 | Model | Accuracy | Precision | Recall | F1 Score |
@@ -28,7 +33,9 @@ Aspiring Data Analyst with skills in SQL, Excel, Power BI, and Python. Passionat
 - Logistic Regression and AdaBoost achieved similar Accuracy (~77%).
 - Decision Tree showed the highest Recall (46.07%), identifying more employees likely to leave.
 - Training Hours, Relevant Experience, and Company Size were among the most influential factors affecting employee retention.
+### Business Impact
 
+This model helps HR teams identify employees at risk of leaving, enabling proactive retention strategies and reducing employee turnover.
 ### Power BI Dashboard
 - Interactive dashboard for employee retention analysis.
 - KPI cards, charts, and insights.
