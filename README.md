@@ -21,8 +21,6 @@ Aspiring Data Analyst with skills in SQL, Excel, Power BI, and Python. Passionat
 - Interactive dashboard for employee retention analysis.
 - KPI cards, charts, and insights.
 
-
-
 ## Contact
 LinkedIn: Amisha Kalra
 Email: amishakalra211@gmail.com
