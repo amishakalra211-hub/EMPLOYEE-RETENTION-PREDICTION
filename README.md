@@ -39,7 +39,9 @@ This model helps HR teams identify employees at risk of leaving, enabling proact
 ### Power BI Dashboard
 - Interactive dashboard for employee retention analysis.
 - KPI cards, charts, and insights.
+## Dashboard Preview
 
+![Dashboard](dashboard.jpeg)
 ## Contact
 LinkedIn: Amisha Kalra
 Email: amishakalra211@gmail.com
